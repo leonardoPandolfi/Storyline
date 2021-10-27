@@ -1,0 +1,19 @@
+body{
+    background: linear-gradient(#ffffff, #747070);
+    align-items: center;
+    text-align: center;
+}
+
+h1{
+    color: #ee0d0d;
+}
+
+.container{
+    background-color: white;
+    height: 600px;
+    width: 100%;
+    border-radius: 50px;
+}
+
+
+
